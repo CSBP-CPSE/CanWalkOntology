@@ -14,3 +14,8 @@ Start browsing from the base class: [PedestrianInfrastructure](classes/Pedestria
 - [Programme D’implantation De Rues Piétonnes Et Partagées](https://ville.montreal.qc.ca/pls/portal/docs/PAGE/ARROND_VSP_FR/MEDIA/DOCUMENTS/PROGRAMME_RUES_PIETONNES_2017.PDF)
 - [Toronto Complete Streets Guideline](https://www.toronto.ca/wp-content/uploads/2017/11/98b5-Chapter-4.pdf)
 - [Urban Street Design Guide](https://nacto.org/publication/urban-street-design-guide/)
+
+
+-----
+
+[License](LICENSE)
